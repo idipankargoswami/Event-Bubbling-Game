@@ -16,4 +16,7 @@ A fun interactive game that demonstrates event bubbling in JavaScript. Players n
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript
+
+- ## Image
+![Screenshot 2025-06-16 113506](https://github.com/user-attachments/assets/f7fb0c4d-f411-4854-bf19-4921f001e066)
